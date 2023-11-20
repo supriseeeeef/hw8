@@ -1,0 +1,35 @@
+.text-box h3:first-child {
+    color: pink;
+}
+
+#greycol {
+    color: grey;
+}
+
+.text-box div p {
+    color: red;
+}
+
+.text-box p.yellow {
+    color: yellow;
+}
+
+.text-box p:nth-child(7) {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.pink {
+    color: pink;
+}
+.tomato {
+    color: tomato;
+}
+.violet {
+    color: violet;
+}
